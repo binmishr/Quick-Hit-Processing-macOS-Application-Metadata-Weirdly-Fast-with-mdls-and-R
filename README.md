@@ -1,0 +1,1 @@
+# Quick-Hit-Processing-macOS-Application-Metadata-Weirdly-Fast-with-mdls-and-R
